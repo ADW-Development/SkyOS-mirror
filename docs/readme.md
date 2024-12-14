@@ -1,7 +1,7 @@
 > [!NOTE]
 > No forking unless you want to contribute (or archive, archiving is fine)
 
-# merry christmas
+# Merry Christmas! 🎅
 
 # SkyOS readme.md file
 SkyOS is an open-source operating system built for the Scratch Computing Alliance (SCA)
